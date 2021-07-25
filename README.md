@@ -1,4 +1,5 @@
-# Datos-personales ![image](https://user-images.githubusercontent.com/85967880/126917399-91d97f9d-137d-4a05-802c-ae9950d52494.png)
+# Datos-personales ![image](https://user-images.githubusercontent.com/85967880/126917417-e4c35481-eb55-4362-8fd3-3abbf896095c.png)
+
 
 * Nombre: Jeferson Danilo Sandoval Herrera
 * Fecha de nacimiento: 20/10/1995
